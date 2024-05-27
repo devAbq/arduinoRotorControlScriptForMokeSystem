@@ -1,0 +1,2 @@
+# Script para controle de um rotor a ser utilizado em um sistema de medidas MOKE.
+Repositório de scripts para o controle de um rotor utilizado para ajuste de ângulo de medidas em um equipamento de realizar medidas de magnetização utilizando o Efeito Magneto-Óptico de Kerr (MOKE).
