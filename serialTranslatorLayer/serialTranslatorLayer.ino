@@ -19,4 +19,6 @@ void loop() {
   }
 }
 
+
+
 // the above script was automatically generated using the github ai copilot tool. it merely saves as a translation layer so the python script works with the arduino uno board since we were having problems with the pyfirmata library -ABQ
